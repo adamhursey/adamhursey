@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Adam! 👋
 
-<!--
-**adamhursey/adamhursey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer passionate about building great user experiences and solving complex problems.
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- 🗒️ **Nova Journal** - AI-powered journaling app with sentiment analysis and memory features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Fun Facts
+- 🪚 Enjoy woodworking and outdoors
+- 🖥️ Tech enthusiast and self-hosting hobbyist
+- 🎣 Love fishing
+
+## 📫 Let's Connect!
+- [Portfolio](https://hursey.io)
+- [LinkedIn](https://linkedin.com/in/adamhursey)
+- [Email](mailto:adam@hursey.io)
+
+Always excited to collaborate on interesting projects! 🤝
